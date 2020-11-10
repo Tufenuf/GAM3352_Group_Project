@@ -1,0 +1,2 @@
+- need particle model for fire
+- ship model doesnt allow the player to get on teh ship, may have to find an alternative
